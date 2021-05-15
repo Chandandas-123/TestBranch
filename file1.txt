@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file1 from bug1 branch
+=======
+file1 from bug2
+>>>>>>> bug2

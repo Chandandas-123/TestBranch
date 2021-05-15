@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file 2 
 how are you?
+=======
+file2 from bug2
+>>>>>>> bug2
