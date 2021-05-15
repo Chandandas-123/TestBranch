@@ -1,1 +1,1 @@
-file 2 
+file2 from bug2
